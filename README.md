@@ -4,8 +4,8 @@
 
 ## Dados Pessoais:
 
--Idade : XX
--RG: xx.xxx.xxx-x
+-Idade : 24 Anos
+
 
 ## Esperiencias
 
