@@ -10,7 +10,6 @@
 ## Esperiencias
 
  - Hardware Avançado
- - 
 
 ## Formação
 
